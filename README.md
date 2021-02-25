@@ -7,7 +7,7 @@ Mobile App to create,update and delete customisable forms. Admins can view,creat
 - **Firebase Database** - Realtime Database is a cloud-hosted NoSQL database that lets you store and sync data between your users in realtime.
 
 ## Getting started
-- Clone this repo using git clone https://github.com/mfzaguiar/e-commerce-app.git
+- Clone this repo using git clone https://github.com/ShibaniL123/GreenBuild.git
 - Create a new project on firebase console.
 - Enter database credentials in ``` database/firebase.js ```
 - Move yourself to the appropriate directory: ``` cd GreenBuild ```
